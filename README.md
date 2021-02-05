@@ -11,6 +11,7 @@
         - DELETE /posts/:id
         - PATCH /posts/:id
         - GET /posts
+- Open your `index.html` in the browser and write your code in the `index.js` file
 
 ## Deliverables:
 
